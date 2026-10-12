@@ -1,5 +1,5 @@
 # HỆ THỐNG QUẢN LÝ GHI CHÚ VÀ THÔNG TIN RIÊNG TƯ
-
+GVBM: Nguyễn Hoàng Việt
 Đồ án môn học Frontend.
 
 ## 1. Thành viên và phân công
