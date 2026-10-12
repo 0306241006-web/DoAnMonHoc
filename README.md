@@ -84,6 +84,6 @@ Nhấn Ctrl + C tại mỗi Terminal để dừng.
 
 ## 8. Tài liệu nhóm
 
-- Trello: bổ sung liên kết.
-- Figma: bổ sung liên kết.
-- Bảng kiểm thử: bổ sung liên kết.
+- Trello: https://trello.com/invite/b/6acce44b83f464b878acba46/ATTI30d8323c58fd36562e1ab849b922989c856FB462/dồ-an-frontend-quản-ly-ghi-chu
+- Figma: https://www.figma.com/design/fbKcRNGkV2tLUH50BdU4I9/Wireframe-%E2%80%94-Qu%E1%BA%A3n-l%C3%BD-ghi-ch%C3%BA?node-id=0-1&t=JrWurqXLYWsMt4qJ-1
+- Bảng kiểm thử:https://docs.google.com/spreadsheets/d/1o90q6aP19d_PeddqfWd5YI8pic1HecKN/edit?usp=drive_link&ouid=115348816992729595117&rtpof=true&sd=true
